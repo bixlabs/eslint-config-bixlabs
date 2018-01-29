@@ -1,0 +1,47 @@
+{
+  "name": "eslint-config-bixlabs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bixlabs/eslint-config-bixlabs.git",
+  "author": {
+    "name": "Toni Cabrera",
+    "email": "acabrera@bixlabs.com",
+    "url": "https://github.com/acabreragnz"
+  },
+  "contributors": [
+    {
+      "name": "Julian Reyes",
+      "email": "jreyes@bixlabs.com",
+      "url": "https://github.com/rkmax"
+    },
+    {
+      "name": "Joseph Arrieta",
+      "email": "jarrieta@bixlabs.com",
+      "url": "https://github.com/jac1013"
+    },
+    {
+      "name": "Edwin Vasquez",
+      "email": "edwinvasquez50@gmail.com",
+      "url": "https://github.com/ednjv"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-babel": "^4.1.2",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=4.16.0",
+    "eslint-config-standard": ">=11.0.0-beta.0",
+    "eslint-plugin-babel": ">=4.1.2",
+    "eslint-plugin-import": ">=2.8.0",
+    "eslint-plugin-node": ">=5.2.1",
+    "eslint-plugin-promise": ">=3.6.0",
+    "eslint-plugin-standard": ">=3.0.1"
+  }
+}
