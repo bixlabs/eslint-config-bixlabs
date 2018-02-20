@@ -48,6 +48,9 @@ module.exports = {
         "space-before-function-paren": [
             "error",
             "never"
+        ],
+        "no-extra-semi": [
+            "error"
         ]
     }
 };
